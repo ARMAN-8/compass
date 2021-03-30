@@ -1,0 +1,65 @@
+#menu-bar, #footer, #sidebar {
+    background-color: #544AFB!important;
+}
+.submenu {
+    background-color: rgb(76, 74, 222)!important;
+    color: #fff!important;
+}
+.submenu-container ul.sub-menu-nav>li>a {
+    color: #fff!important;
+}
+
+.has-submenu, .into-mobile-menu {
+    background-color: #544AFB!important;
+}
+#top-bar{
+    background-color: #000;
+}
+#language-bar {
+    background-color: #000;
+}
+.about-into {
+    background-color: #808080!important;
+}
+
+.contact-apply {
+    background-color: #544AFB!important;
+}
+
+#menu-bar {
+    height: 70px!important;
+}
+.ownBtn {
+    border: 1px solid white;
+    background: transparent;
+}
+
+.uni-title {
+    font-size:14px;color:#CCC
+}
+footer {
+    background-color: #544AFB;
+    color: #fff;
+}
+.footer-link {
+    list-style: none;
+    margin-left: 0;
+    margin-top: 10px;
+}
+.reviewTitle {
+    color: #544AFB;
+    font-weight: bold;
+}
+.followUs ul li{
+    display: inline-block;
+}
+.big-card-titles {
+    font-size: 20px;
+    color: #544AFB;
+}
+.mainColor {
+    color: #544AFB;
+}
+.mainBG {
+    background: #544AFB;
+}
